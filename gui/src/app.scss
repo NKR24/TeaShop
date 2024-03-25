@@ -1,0 +1,21 @@
+button,
+input,
+textarea {
+  all: unset;
+}
+
+button {
+  cursor: pointer !important;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+}
+
+h1,
+h2 {
+  margin: 0;
+}
